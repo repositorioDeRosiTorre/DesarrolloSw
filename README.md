@@ -21,7 +21,7 @@ colaboración y garantizar la calidad del producto final. Algunas de las áreas 
 
 
 
-
+![arq](img/areadeTrabajo.png)
 
 
 

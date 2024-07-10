@@ -8,16 +8,16 @@ El **desarrollo de software con herramientas orientadas a la productividad** se 
 de creación, mantenimiento, prueba, depuración y despliegue de aplicaciones de software. Estas herramientas están diseñadas para automatizar tareas rutinarias, fomentar la 
 colaboración y garantizar la calidad del producto final. Algunas de las áreas clave en las que estas herramientas pueden ayudar incluyen:
 
-**Gestión de proyectos:** _Herramientas que facilitan la planificación, seguimiento y organización de tareas durante el desarrollo de software._
-</br>
-**Control de versiones:** _Plataformas como Git y sistemas de control de versiones que permiten a los equipos colaborar eficientemente en el código fuente._
-</br>
-**Entorno de desarrollo integrado (IDE):** _Software que proporciona un conjunto completo de herramientas para escribir, depurar y compilar código._
-</br>
-**Pruebas automatizadas:** _Frameworks y herramientas para automatizar pruebas unitarias, de integración y funcionales._
-</br>
-**Documentación:** _Herramientas que ayudan a crear documentación clara y concisa para el proyecto._
-
+**1.- Gestión de proyectos:** _Herramientas que facilitan la planificación, seguimiento y organización de tareas durante el desarrollo de software._
+</br></br>
+**2.- Control de versiones:** _Plataformas como Git y sistemas de control de versiones que permiten a los equipos colaborar eficientemente en el código fuente._
+</br></br>
+**3.- Entorno de desarrollo integrado (IDE):** _Software que proporciona un conjunto completo de herramientas para escribir, depurar y compilar código._
+</br></br>
+**4.- Pruebas automatizadas:** _Frameworks y herramientas para automatizar pruebas unitarias, de integración y funcionales._
+</br></br>
+**5.- Documentación:** _Herramientas que ayudan a crear documentación clara y concisa para el proyecto._
+</br></br>
 
 
 

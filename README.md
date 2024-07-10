@@ -17,19 +17,13 @@ colaboración y garantizar la calidad del producto final. Algunas de las áreas 
 **4.- Pruebas automatizadas:** _Frameworks y herramientas para automatizar pruebas unitarias, de integración y funcionales._
 </br></br>
 **5.- Documentación:** _Herramientas que ayudan a crear documentación clara y concisa para el proyecto._
-</br></br>
-
-
-
-
 
 
 </br>
 | Repositorio | Descripción |
 | :---: | :--- |
 | [Arquitectura en 3 capas](http://www.youtube.com) |  Modelo Controlador Vista (MCV), esta técnica organiza una aplicación en tres capas independientes. |
-| [Control de Versiones](https://youtube.com)| GitHub es una plataforma de alojamiento y colaboración de código fuente que se utiliza para implementar y administrar sistemas de control de versiones |
+| [Control de Versiones](https://youtube.com)| GitHub es una plataforma de alojamiento y colaboración de código fuente |
 | ejemplos | proyectos en php, html y sql |
 </br>
 
-![arq](img/areadeTrabajo.png)![arq](img/areadeTrabajo.png)

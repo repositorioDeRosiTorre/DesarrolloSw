@@ -20,10 +20,8 @@ colaboración y garantizar la calidad del producto final. Algunas de las áreas 
 
 
 </br>
-| Repositorio | Descripción |
+| Proyecto | Descripción |
 | :---: | :--- |
-| [Arquitectura en 3 capas](http://www.youtube.com) |  Modelo Controlador Vista (MCV), esta técnica organiza una aplicación en tres capas independientes. |
-| [Control de Versiones](https://youtube.com)| GitHub es una plataforma de alojamiento y colaboración de código fuente |
-| ejemplos | proyectos en php, html y sql |
+| Columna 1 | Columna 2, el ancho se adapta al texto |
+| [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
 </br>
-

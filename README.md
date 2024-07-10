@@ -21,20 +21,15 @@ colaboración y garantizar la calidad del producto final. Algunas de las áreas 
 
 
 
-![arq](img/areadeTrabajo.png)
 
 
 
-_letra cursiva_
-
-Manera de **resaltar en negritas** palabras en un parrafo.
-
-**Negritas**, _Cursivas_,  _**Negritas y cursiva**_
-salto de linea  se coloca al inicio y final de la tabla
 </br>
-| Proyecto | Descripción |
+| Repositorio | Descripción |
 | :---: | :--- |
-| Columna 1 | Columna 2, el ancho se adapta al texto |
-| [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
+| [Arquitectura en 3 capas](http://www.youtube.com) |  Modelo Controlador Vista (MCV), esta técnica organiza una aplicación en tres capas independientes. |
+| [Control de Versiones](https://youtube.com)| GitHub es una plataforma de alojamiento y colaboración de código fuente que se utiliza para implementar y administrar sistemas de control de versiones |
+| ejemplos | proyectos en php, html y sql |
 </br>
-vinculo: videos(http://www.youtube.com)
+
+![arq](img/areadeTrabajo.png)![arq](img/areadeTrabajo.png)

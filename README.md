@@ -18,10 +18,11 @@ colaboración y garantizar la calidad del producto final. Algunas de las áreas 
 </br></br>
 **5.- Documentación:** _Herramientas que ayudan a crear documentación clara y concisa para el proyecto._
 
-
+Por lo cual, se presenta el siguiente orden de proyectos:
 </br>
 | Proyecto | Descripción |
 | :---: | :--- |
-| Columna 1 | Columna 2, el ancho se adapta al texto |
 | [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
+| [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
+| [getURL](https://github.com/miRepositorioGit/getURL.git) | Muestra como direccionar y desglozar una petición URL. Muestra como pre-procesar una petición con scripts .htaccess |
 </br>
